@@ -1,4 +1,6 @@
 *.pyc
 *~
-lab-dev.json
+lab-dev*
 labs
+laststable
+buildout
