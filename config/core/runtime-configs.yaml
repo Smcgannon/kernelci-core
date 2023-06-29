@@ -30,7 +30,7 @@ runtimes:
 
   lab-dev:
     lab_type: legacy.lava_xmlrpc
-    url: 'http://lava-ci-dev.baylibre/RPC2/'
+    url: 'http://10.1.1.43/RPC2/'
     queue_timeout:
       days: 1
     filters:
